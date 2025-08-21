@@ -21,7 +21,7 @@ The goal of this project is to build a predictive model that:
 
 ⚠️ Due to file size restrictions, the full dataset is **not included in this repository**.  
 You can download it here:  
-- [Download Dataset (Link 1)](https://drive.google.com/uc?id=1VQ-HAm0oHbv0GmDKP2iqqFNc5aI91OLn&export=download)  
+- [Data Dictionary:(Link 1)]([https://drive.google.com/uc?id=1VQ-HAm0oHbv0GmDKP2iqqFNc5aI91OLn&export=download](https://drive.google.com/uc?id=1VQ-HAm0oHbv0GmDKP2iqqFNc5aI91OLn&export=download))  
 - [Download Dataset (Link 2)](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV)  
 
 For quick testing, you may use a **sample dataset** (included in `data/sample.csv`).  
