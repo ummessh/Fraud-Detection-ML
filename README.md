@@ -74,5 +74,5 @@ Fraud-Detection-ML/
 
 ---
 
-✍️ **Author**: [Your Name]  
+✍️ **Author**: [Umesh Chandra Tiwari]  
 📌 Open to feedback and suggestions!  
